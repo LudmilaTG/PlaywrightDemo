@@ -58,6 +58,7 @@ Thumbs.db
 playwright/tests-examples
 playwright/playwright-report
 /test-results/
+/allure-results/
 /playwright-report/
 /blob-report/
 /playwright/.auth/
