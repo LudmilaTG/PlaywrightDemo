@@ -32,7 +32,7 @@ export default defineConfig({
     trace: 'on-first-retry',
     video: 'on',
     screenshot: 'on',
-    headless: false,
+    headless: true,
   },
   expect: {
     timeout: 7 * 1000,
